@@ -10,3 +10,5 @@ Group Project made by:
 015025-	Biswadip Das - https://github.com/biswadip12
 
 015045-	Siddharth Gupta - https://github.com/Siddharth9o9
+
+Source of Data: https://www.kaggle.com/sartajbhuvaji/brain-tumor-classification-mri
